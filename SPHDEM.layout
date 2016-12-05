@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Parameters.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6919" topLine="246" />
+		</Cursor>
+	</File>
+	<File name="DEM_type1.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3882" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="Boundaries.cpp" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11323" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+		</Folding>
+	</File>
+	<File name="UserInterface.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9845" topLine="273" />
+		</Cursor>
+	</File>
+	<File name="Solver.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54396" topLine="537" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="79" />
+			<Collapse line="852" />
+			<Collapse line="985" />
+			<Collapse line="1580" />
+		</Folding>
+	</File>
+	<File name="Initialization.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45491" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="109" />
+			<Collapse line="328" />
+			<Collapse line="504" />
+			<Collapse line="546" />
+			<Collapse line="745" />
+			<Collapse line="825" />
+			<Collapse line="1157" />
+			<Collapse line="1186" />
+			<Collapse line="1239" />
+		</Folding>
+	</File>
+	<File name="KernelFunctions.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="OutputFunctions.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22631" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="45" />
+			<Collapse line="254" />
+			<Collapse line="695" />
+		</Folding>
+	</File>
+	<File name="utility.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1450" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1749" topLine="32" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
