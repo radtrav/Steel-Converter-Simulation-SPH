@@ -3,8 +3,8 @@
 This is CFD simulation using Smoothed Particle Hydronamics programmed in C++.
 It was my main project working at JFE Steel in the Numerical Simulation Dpartment.
 
-Please read numerical-simulation-steel.pdf for a full detailed summary of this project and its objectives. 
-Please read jfe-demsph-user.pdf for setup instructions and dependencies
+* Read numerical-simulation-steel.pdf for a full detailed summary of this project and its objectives. 
+* Read jfe-demsph-user.pdf for setup instructions and dependencies
 
 Below are some exerpts from the final report describing the physics behind the simulation as well as the algorithms to used to model this behaviours.
 
