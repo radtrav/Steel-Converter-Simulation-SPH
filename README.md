@@ -8,6 +8,14 @@ Please read jfe-demsph-user.pdf for setup instructions and dependencies
 
 Below are some exerpts from the final report describing the physics behind the simulation as well as the algorithms to used to model this behaviours.
 
+## Simulation Screenshots
+
+### Steel Conversion Process
+![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.35%20PM.png?raw=true)
+
+### Block Break Simulation
+![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.40%20PM.png?raw=true)
+
 ## Exerpts
 
 ![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.16.56%20PM.png?raw=true)
@@ -20,8 +28,7 @@ Below are some exerpts from the final report describing the physics behind the s
 ![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.04%20PM.png?raw=true)
 ![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.11%20PM.png?raw=true)
 ![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.28%20PM.png?raw=true)
-![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.35%20PM.png?raw=true)
-![alt text](https://github.com/radtrav/Steel-Converter-Simulation-SPH/blob/master/steelconverter-pics/Screen%20Shot%202018-02-15%20at%206.19.40%20PM.png?raw=true)
+
 
 
 
